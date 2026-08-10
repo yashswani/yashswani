@@ -15,10 +15,10 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi38610/3d-contrib-action@main
-        with:
-          github_user_name: yashswani
-          your_name: Yashswani Soni
+      - uses: yoshi38610/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: yashswani
       - name: Commit & Push
         run: |
           git config user.name github-actions
