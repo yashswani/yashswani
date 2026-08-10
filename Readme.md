@@ -20,30 +20,30 @@
 
 ## 🎀 About Me
 
-- 🌸 **Software Engineer**: B.Tech Computer Science student at **VIT Bhopal University** (2023–2027) focused on full-stack web applications and real-time backend architecture[cite: 1].
-- ⚡ **Real-Time Systems & State Sync**: Experienced in building low-latency matchmaking, WebSocket state synchronization, and Redis-backed data processing[cite: 1].
-- 🤖 **AI Products**: Integrating OpenAI APIs and intelligent systems into user-focused web products and smart automation tools[cite: 1].
-- 👑 **LeetCode Knight**: Strong algorithmic foundation in C++ and Python with top-tier problem-solving rankings[cite: 1].
-- 📣 **Leadership**: PR & Outreach Member at the **Software Development Club**, coordinating technical workshops and campus initiatives[cite: 1].
+- 🌸 **Software Engineer**: B.Tech Computer Science student at **VIT Bhopal University** (2023–2027) focused on full-stack web applications and real-time backend architecture.
+- ⚡ **Real-Time Systems & State Sync**: Experienced in building low-latency matchmaking, WebSocket state synchronization, and Redis-backed data processing.
+- 🤖 **AI Products**: Integrating OpenAI APIs and intelligent systems into user-focused web products and smart automation tools.
+- 👑 **LeetCode Knight**: Strong algorithmic foundation in C++ and Python with top-tier problem-solving rankings.
+- 📣 **Leadership**: PR & Outreach Member at the **Software Development Club**, coordinating technical workshops and campus initiatives.
 
 ---
 
 ## 🛠️ Tech Stack & Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,javascript,python,react,nodejs,express,postgres,redis,tailwind,html,css,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,python,react,nodejs,express,postgres,redis,tailwind,html,css,git,github,postman,bootstrap" />
 </p>
 
 ### Technical Expertise
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | C++, JavaScript (ES6+), Python, SQL[cite: 1] |
-| **Frontend Engineering** | React.js, Tailwind CSS, HTML5, CSS3, EJS, Recharts, Responsive UI[cite: 1] |
-| **Backend & Real-Time** | Node.js, Express.js, REST APIs, Socket.io, WebSockets, State Sync[cite: 1] |
-| **Databases & Caching** | PostgreSQL, Redis, Transactions, Indexed Queries, Database Design[cite: 1] |
-| **AI & Authentication** | OpenAI API, Passport.js, Google OAuth 2.0, bcrypt, express-session[cite: 1] |
-| **Tools & Platforms** | Git, GitHub, VS Code, DataGrip, npm, nodemon[cite: 1] |
+| **Languages** | C++, JavaScript (ES6+), Python, SQL |
+| **Frontend Engineering** | React.js, Tailwind CSS, HTML5, CSS3, EJS, Recharts, Responsive UI |
+| **Backend & Real-Time** | Node.js, Express.js, REST APIs, Socket.io, WebSockets, State Sync |
+| **Databases & Caching** | PostgreSQL, Redis, Transactions, Indexed Queries, Database Design |
+| **AI & Authentication** | OpenAI API, Passport.js, Google OAuth 2.0, bcrypt, express-session |
+| **Tools & Platforms** | Git, GitHub, VS Code, DataGrip, npm, nodemon |
 
 ---
 
@@ -74,7 +74,7 @@
 ---
 
 ### 🎴 02. SpellForge Tactics | 1v1 Elemental Card Warfare
-> **Low-Latency Multiplayer Strategy Game with Server-Authoritative Logic**[cite: 1]
+> **Low-Latency Multiplayer Strategy Game with Server-Authoritative Logic**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -83,13 +83,13 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-- Built a low-latency 1v1 multiplayer card game featuring live matchmaking queues and Socket.io server-managed game-state synchronization[cite: 1].
-- Designed authoritative battle logic for card draws, mana consumption, shields, and match resolution with indexed PostgreSQL queries for rapid leaderboard retrieval[cite: 1].
+- Built a low-latency 1v1 multiplayer card game featuring live matchmaking queues and Socket.io server-managed game-state synchronization.
+- Designed authoritative battle logic for card draws, mana consumption, shields, and match resolution with indexed PostgreSQL queries for rapid leaderboard retrieval.
 
 ---
 
 ### 📈 03. Apex Exchange | Galactic Market Simulator
-> **Real-Time Financial Simulator with Stochastic Pricing & Redis Caching**[cite: 1]
+> **Real-Time Financial Simulator with Stochastic Pricing & Redis Caching**
 
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -98,13 +98,13 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
-- Developed a real-time market simulator with a stochastic pricing engine, WebSocket price feeds, and interactive Recharts visualizations[cite: 1].
-- Implemented transactional database locking for order execution and utilized Redis Sorted Sets for $O(\log N)$ global net-worth ranking updates[cite: 1].
+- Developed a real-time market simulator with a stochastic pricing engine, WebSocket price feeds, and interactive Recharts visualizations.
+- Implemented transactional database locking for order execution and utilized Redis Sorted Sets for O(log N) global net-worth ranking updates.
 
 ---
 
 ### 🧠 04. NexusOS | AI Productivity Workspace
-> **Task Management System with Note Summarization**[cite: 1]
+> **Task Management System with Note Summarization**
 
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -113,24 +113,22 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-- Engineered an AI-assisted workspace featuring Kanban board tracking, quick-capture notes, and customizable themes[cite: 1].
-- Integrated the OpenAI API to convert unstructured notes into structured tasks while displaying completion metrics on a dynamic dashboard[cite: 1].
+- Engineered an AI-assisted workspace featuring Kanban board tracking, quick-capture notes, and customizable themes.
+- Integrated the OpenAI API to convert unstructured notes into structured tasks while displaying completion metrics on a dynamic dashboard.
 
----
-
-## ⚡ GitHub Stats & Language Breakdown
+## 📊 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashswani&layout=compact&theme=synthwave&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=2d0d1e" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashswani&theme=react-dark&hide_border=true&color=ff69b4&line=ff69b4&point=ffffff" width="100%" alt="Yashswani's Contribution Activity Graph" />
 </p>
 
 ---
 
 ## 🏆 Achievements & Honors
 
-- ⚔️ **LeetCode Knight**: Recognized in top competitive programming tiers for problem-solving proficiency[cite: 1].
-- 📜 **Research Paper**: Cost-effective methodology paper submitted for academic peer review[cite: 1].
-- 💼 **Leadership**: Active outreach team lead organizing technical events at Software Development Club, VIT Bhopal[cite: 1].
+- ⚔️ **LeetCode Knight**: Recognized in top competitive programming tiers for problem-solving proficiency.
+- 📜 **Research Paper**: Cost-effective methodology paper submitted for academic peer review.
+- 💼 **Leadership**: Active outreach team lead organizing technical events at Software Development Club, VIT Bhopal.
 
 ---
 
