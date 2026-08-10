@@ -11,9 +11,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: alexandresanlim/3d-contrib-prm@master
+      - uses: yoshi38610/3d-contrib@main
         with:
           github_user_name: yashswani
           your_name: Yashswani Soni
